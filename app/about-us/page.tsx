@@ -367,7 +367,7 @@ export default function AboutUs() {
               <CardContent className="p-8 text-center">
                 <div className="w-32 h-32 rounded-full overflow-hidden mx-auto mb-4 border-4 border-dental-blue-light">
                   <img
-                    src="/new-doctors/IMG_7366.JPG.jpeg"
+                    src="/new-doctors/demoksha.jpeg"
                     alt="Dr. Moksha"
                     className="w-full h-full object-cover object-[center_25%]"
                   />
