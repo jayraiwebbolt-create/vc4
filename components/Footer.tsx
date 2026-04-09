@@ -127,19 +127,6 @@ export default function Footer() {
               </a>
             </div>
           </div>
-          <div className="text-center pt-4 border-t border-slate-800">
-            <p className="text-slate-400 text-sm">
-              Developed by{' '}
-              <a
-                href="https://www.aayushbajpai.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-dental-teal hover:text-dental-teal-light transition-colors font-medium"
-              >
-                Aayush Bajpai
-              </a>
-            </p>
-          </div>
         </div>
       </div>
     </footer>
